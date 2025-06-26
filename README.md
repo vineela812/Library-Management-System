@@ -1,5 +1,4 @@
-This is a simple, console-based Library Management System built using Java. It allows you to manage books and users with the ability to:
-
+**Library Management System
  ->Add new books
  ->Add new users
  ->View all books and users
@@ -19,7 +18,7 @@ Compile:javac Main.java
 Run:java Main
 
 **Interact with menu
-=== Library System Menu ===
+*Library System Menu
 1. Add Book
 2. Add User
 3. Show All Books
