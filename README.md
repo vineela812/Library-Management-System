@@ -1,18 +1,18 @@
 **Library Management System
- ->Add new books
- ->Add new users
- ->View all books and users
- ->Borrow books
- ->Return books
+ - Add new books
+ - Add new users
+ - View all books and users
+ - Borrow books
+ - Return books
 
  
  **Features
-->Add books with an ID, title, and author
--> Add users with an ID and name
--> Borrow a book if available
--> Return a borrowed book
--> Display all books with status (available or borrowed)
--> Display all registered users
+- Add books with an ID, title, and author
+- Add users with an ID and name
+- Borrow a book if available
+- Return a borrowed book
+- Display all books with status (available or borrowed)
+- Display all registered users
 
 Compile:javac Main.java
 Run:java Main
